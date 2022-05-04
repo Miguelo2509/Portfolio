@@ -1,0 +1,8 @@
+.about-img {
+    width: 35%;
+    height: 150%;
+    display: flex;
+    align-self: center;
+    overflow: hidden;
+    margin-left: 90px;
+  }
